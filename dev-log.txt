@@ -1,0 +1,2 @@
+- went through 'lein help tutorial'
+
