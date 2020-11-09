@@ -1,6 +1,6 @@
 # hello-world
 
-FIXME: description
+A basic hello world project, for learning clojure and lein
 
 ## Installation
 
