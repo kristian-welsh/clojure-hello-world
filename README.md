@@ -1,6 +1,6 @@
 # hello-world
 
-A basic hello world project, for learning clojure and lein
+A basic project, to learn clojure. Fetches a pokemon's name from its pokedex number using a web API.
 
 ## Installation
 
